@@ -15,5 +15,7 @@
 
 # Admin
  -->Can add new employers
+ 
  -->Can add new candidates
+ 
  -->Can assign candidates to jobs
