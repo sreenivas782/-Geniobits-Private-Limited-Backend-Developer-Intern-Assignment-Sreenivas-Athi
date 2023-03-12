@@ -14,6 +14,8 @@
 ![Screenshot 2023-03-12 222015](https://user-images.githubusercontent.com/63050215/224559776-616e4bd7-9ae1-4bc7-a3f5-2b2ba0e89662.png)
 
 # Admin
+ -->Can login to the portal
+ 
  -->Can add new employers
  
  -->Can add new candidates
