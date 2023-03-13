@@ -12,6 +12,7 @@
 ![Screenshot 2023-03-12 222015](https://user-images.githubusercontent.com/63050215/224559776-616e4bd7-9ae1-4bc7-a3f5-2b2ba0e89662.png)
 
 # Admin
+1.Can login to portal 2.Can add new employers 3.Can add  new candidates 4.Can assign candidates to jobs
  -->Can login to the portal
         ![Screenshot 2023-03-12 223650](https://user-images.githubusercontent.com/63050215/224613176-803c7629-cab5-4742-b6c4-99867eadcefc.png)
  -->Can add new employers
