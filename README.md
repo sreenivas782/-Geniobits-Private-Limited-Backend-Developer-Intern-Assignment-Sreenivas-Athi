@@ -3,9 +3,7 @@
 ![Screenshot 2023-03-12 215129](https://user-images.githubusercontent.com/63050215/224558250-39fd32c0-b2e6-4058-954d-48ba154b1286.png)
 
  # Candidates
- 
  ![Screenshot 2023-03-12 221407](https://user-images.githubusercontent.com/63050215/224559250-1ce3e69f-15bb-4e3b-952d-bc49732c97b9.png)
-
 ![Screenshot 2023-03-12 221121](https://user-images.githubusercontent.com/63050215/224559089-77908a89-384c-497f-b8a7-95b74cb50947.png)
 
 # Jobs
@@ -16,15 +14,15 @@
 # Admin
  -->Can login to the portal
         ![Screenshot 2023-03-12 223650](https://user-images.githubusercontent.com/63050215/224613176-803c7629-cab5-4742-b6c4-99867eadcefc.png)
-
- 
  -->Can add new employers
         ![Screenshot 2023-03-12 224303](https://user-images.githubusercontent.com/63050215/224613472-46b5140a-c2a8-4597-bc54-556f89aa2985.png)
         ![Screenshot 2023-03-12 224414](https://user-images.githubusercontent.com/63050215/224613525-81015714-1734-42bf-bc75-94edc4e87c00.png)
         ![Screenshot 2023-03-12 224453](https://user-images.githubusercontent.com/63050215/224613563-d59e29f5-9a8d-4106-bca9-b9d86edfd6e3.png)
         ![Screenshot 2023-03-12 224612](https://user-images.githubusercontent.com/63050215/224613601-7fd75f79-f70d-4f33-b8e8-918aba67008b.png)
-
- 
  -->Can add new candidates
- 
+        ![Screenshot 2023-03-13 103436](https://user-images.githubusercontent.com/63050215/224613896-c7485aba-1a68-4e1d-bbc9-788532cd086d.png)
+        ![Screenshot 2023-03-13 103519](https://user-images.githubusercontent.com/63050215/224614028-2d5aa31e-4002-4198-b1d8-481acf033203.png)
  -->Can assign candidates to jobs
+         ![Screenshot 2023-03-13 104822](https://user-images.githubusercontent.com/63050215/224614439-e68b801c-e568-40c2-8ac2-cec1e8426a36.png)
+          ![Screenshot 2023-03-13 104921](https://user-images.githubusercontent.com/63050215/224614526-95650586-3e1c-4979-aefa-f4171bc86da1.png)
+
