@@ -15,8 +15,15 @@
 
 # Admin
  -->Can login to the portal
+        ![Screenshot 2023-03-12 223650](https://user-images.githubusercontent.com/63050215/224613176-803c7629-cab5-4742-b6c4-99867eadcefc.png)
+
  
  -->Can add new employers
+        ![Screenshot 2023-03-12 224303](https://user-images.githubusercontent.com/63050215/224613472-46b5140a-c2a8-4597-bc54-556f89aa2985.png)
+        ![Screenshot 2023-03-12 224414](https://user-images.githubusercontent.com/63050215/224613525-81015714-1734-42bf-bc75-94edc4e87c00.png)
+        ![Screenshot 2023-03-12 224453](https://user-images.githubusercontent.com/63050215/224613563-d59e29f5-9a8d-4106-bca9-b9d86edfd6e3.png)
+        ![Screenshot 2023-03-12 224612](https://user-images.githubusercontent.com/63050215/224613601-7fd75f79-f70d-4f33-b8e8-918aba67008b.png)
+
  
  -->Can add new candidates
  
