@@ -23,7 +23,7 @@
           ![Screenshot 2023-03-13 104921](https://user-images.githubusercontent.com/63050215/224614526-95650586-3e1c-4979-aefa-f4171bc86da1.png)
  # Employers    (1.Can login to poratl 2.can add new job 3.can edit their old job 4.can look at matches assigned to their jobs 5.can shortlist candidates)
  ![Screenshot 2023-03-13 110345](https://user-images.githubusercontent.com/63050215/224617476-a5f02780-0ef9-4c88-bdcc-d2bac6c79495.png)
- #Employer portal
+ # Employer portal
 ![Screenshot 2023-03-13 110419](https://user-images.githubusercontent.com/63050215/224617498-3ca60156-6029-41c5-adbb-78c24d7636d4.png)
 ![Screenshot 2023-03-13 110719](https://user-images.githubusercontent.com/63050215/224617517-00aebf05-de22-4419-a681-8fe664fef00c.png)
 ![Screenshot 2023-03-13 110751](https://user-images.githubusercontent.com/63050215/224617546-52f27bc5-8b47-49e6-a667-98df3e02dc4d.png)
